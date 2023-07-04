@@ -1,21 +1,19 @@
-## Christos Ferentinos
-www.linkedin.com/in/cferentinos
+# Christos Ferentinos
 ferentinosch@gmail.com
+
+[LinkedIn Profile](https://www.linkedin.com/in/cferentinos)
 
 [Click here for a PDF version](https://www.maleficarium.com/cv/christos-ferentinos-cv.pdf)
 
----
-
 ## Education
+
 American College of Greece - Deree, 2005-2011, GPA: 3.25
 - Bachelor of Science in Business Administration
 - Major in Computer Information Systems
 
----
-
 ## Employment
 
-##### IT Technician and User Support at Argo Travel Group (2015-2023)
+#### IT Technician and User Support at Argo Travel Group (2015-2023)
 - Provided exceptional technical support to 80 users across three different locations, including remote and on-site support for our Santorini office. Utilized remote access solutions such as TeamViewer, AnyDesk, and RDP to troubleshoot issues quickly and efficiently. Ensured seamless  operations and minimized downtime to maintain productivity and satisfaction.
 &nbsp;
 - Played a vital role in organizing successful public events and conventions, including the prestigious Aegean Airlines Pro-Am and Aegean-Messinia Pro-Am at the Costa Navarino Hotel, and the Global Symposium of Maritime Executives. Identified and sourced the necessary equipment, while proposing innovative and streamlined processes to meet the team's requirements. With a keen eye for detail, flawlessly executed on-site setups and provided superior support to ensure exceptional attendee experiences."
@@ -40,12 +38,11 @@ American College of Greece - Deree, 2005-2011, GPA: 3.25
 &nbsp;
 - Collaborated with the sales director to design and create customized email flows under Microsoft Power Automate that streamlined the purchase request process for customers by implementing multiple choice forms that would format and forward relevant data whenever a customer submitted a purchase request, resulting in enhanced customer satisfaction and increased efficiency.
 
-##### Freelance IT Tech Support (2007-2015)
+#### Freelance IT Tech Support (2007-2015)
 - Provided comprehensive computer maintenance, local network management, and hardware and software installation and configuration services to clients as an independent contractor.
 
----
-
 ## Skills
+
 - Exceptional English language proficiency, including strong written and verbal communication skills.
 - Advanced proficiency in Microsoft Office and Microsoft 365, validated by obtaining the ECDL Certificate at the age of 15.
 - Familiar with Python, AutoHotkey, and Windows PowerShell, with a demonstrated ability to apply these skills in diverse settings.
@@ -56,15 +53,14 @@ American College of Greece - Deree, 2005-2011, GPA: 3.25
 - Experienced in installation and configuration of Global Distribution System (GDS) software (Sabre, Worldspan, Amadeus, etc.), facilitating efficient travel bookings.
 - Skilled in the deployment and configuration of router and firewall software (pfSense), ensuring network security and optimal performance.
 
----
-
 ## Experience
-##### Python Development
+
+#### Python Development
 - Designed and developed a personal Python project that utilized a GraphQL API to automatically track episode releases of ongoing Japanese anime series, managed local copies based on regular expressions, and generated online reports. Continuously improving and maintaining the project since 2014.
-##### Planning, Organizing and Budgeting Activities
+#### Planning, Organizing and Budgeting Activities
 - Demonstrated strong leadership skills as one of the leaders of the Boy Scout troop in Filothei, responsible for planning and budgeting events and expeditions. Successfully executed numerous events that engaged and entertained the troop members.
 - Planned and executed various events for a large group of 30+ members of the Deree Graphical Arts and Entertainment Club, including exhibitions, workshops, and social events.
-##### Joomla CMS
+#### Joomla CMS
 - Managed the Joomla CMS backend for the website of the Elaion Guesthouse, implementing timely content and information updates to maintain the website's relevance and user-friendliness.
-##### Web Development
+#### Web Development
 - Developed an online bookstore for my graduation project, utilizing the PHP language with a MySQL backend database. The website included a user-friendly interface, demonstrating my web development skills.
